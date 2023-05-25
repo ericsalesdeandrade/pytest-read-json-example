@@ -12,12 +12,12 @@ This repository provides an example of how to read JSON data in Pytest using var
 
  - Clone the GitHub repository:
 ```bash 
-	git clone [https://github.com/ericsalesdeandrade/pytest-read-json-example.git](https://github.com/ericsalesdeandrade/pytest-read-json-example.git)
+git clone [https://github.com/ericsalesdeandrade/pytest-read-json-example.git](https://github.com/ericsalesdeandrade/pytest-read-json-example.git)
 ```
 	
  - Navigate to the project directory:
 ```bash 
-		cd pytest-read-json-example
+cd pytest-read-json-example
 ```
  - Create a virtual environment, activate it and install the requirements:
 ``` bash
